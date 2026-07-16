@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-2ljfbk.cnkitabos.xyz/sitemap.xml
